@@ -1,0 +1,6 @@
+[submodule "bevy"]
+	path = bevy
+	url = https://github.com/micttyoid/bevy.git
+[submodule "ci-deckplate"]
+	path = ci-deckplate
+	url = git@gitlab.com:micttyoid/ci-deckplate.git
